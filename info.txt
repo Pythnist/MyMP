@@ -1,0 +1,4 @@
+PyMP (Pygame's Music Player)^by Sourav Gola
+For the developer^who wants to know^if his music is^playable with Pygame.
+Plays .wav, .ogg, .mp3,^.xm & .mid files.^Additionally .cda in Windows.
+
